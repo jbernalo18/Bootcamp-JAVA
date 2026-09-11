@@ -630,9 +630,244 @@ Ingresos- gastos: Ahorro
 
 ---------------------------------------
 
+DIA 5
+
+Programando un juguete en código
+Demostrar que un programa puede recibir información interactiva de los usuario
+Almacenar datos en memoria
+Mostrar datos en pantalla
+
+Es un pequeño programa para probar la sintaxis del lenguaje, con fines educativos. 
+
+const preguntas = [
+  "Ingresa un animal: ", 
+   "Ingresa una comida: ",
+
+];
+
+let respuetas=[];
+
+cont hacerPreguntas = (indice) => {
+if (índice < preguntas.length) {
+  rl.question(preguntas [indice],(respuesta) =>{
+ respuestas.push(respuesta);
+  hacerPregunta(indice+1);
+});
+} else {
+ const [animal, comida] = respuestas; 
+console.log('\n--- ANIMALES---\n');
+console.log('El $[animal] come $[comida]');
+ rl.close();
+
+ }
+}
+
+hacerPregunta(0);
+
+----------------------------------
+El trabajo en equipo. 
+
+Estrategias
+Análisis de estudio de caso
+
+Habilidades blandas para lograr una meta, meta en común cada uno aporta. Cada uno pude tener funciones distintas. 
+
+Estrategias:
+- Comunicarse entre si.
+- Tratarse con respeto.
+- Pedir y ofrecer ayuda de manera adecuada.
+
+Ofrecer ayuda: Cuando todos estamos trabajando hacia un objetivo común. 
+
+- Escucha con atención la solicitud o explicación del colega. 
+- Si es necesario, haz preguntas para entender mejor.
+- Conversar pasos a seguir
+
+Pedir ayuda: Cuando no podemos resolver un problema.
+- Habla con calma y claridad
+- Resumen del problema
+- Presenta soluciones que ya probaste
+
+Bases de la programación:
+Variables y tipos de datos 
+ recurso https://www.w3schools.com/
+
+
+Variable : Espacio para almacenar datos en el programa, espacio en memoria. 
+Reglas: 
+-Variable clara, explicita de que se va guardar. 
+let: Asignar valor o actualizarlo
+String: Cadena de texto. Tipo de dato. 
+Con typeof preguntamos que tipo de dato es. 
+
+Tipos de datos primitivos: 
+1. Tipos Primitivos (Las cajas básicas)Son los valores más simples y básicos del lenguaje (los 8 que vimos antes). Guardan el valor real directamente en la memoria. Siempre empiezan con minúscula. Para números enteros: 
+int edad = 25;
+Para decimales con precisión: double precio = 19.99;
+Para un solo caracter:
+char letra = 'G'; (usa comillas simples)
+Para decisiones: boolean esMayorDeEdad = true;
+
+2. Tipos de Referencia u Objetos (Las cajas complejas) Estas cajas no guardan el valor directamente, sino una dirección o referencia a un lugar en la memoria donde está guardado un objeto complejo. Siempre empiezan con Mayúscula. Para textos completos: 
+String nombre = "Carlos"; (usa comillas dobles)
+Estructuras de datos: Listas, arreglos, o clases que tú mismo crees (como Scanner, Usuario, etc.).
+
+JavaScript inferencia de datos. 
+
+prompt.sync, se espera que el usuario ingrese una linea antes de continuar, readline es asíncrono 
+
+
+npm install prompt-sync
+
+interpolación vs concatenación: Diferencia principal, interpolación en un solo string. 
+
+readline es nativo y el prompt es una librería extra , prompt es la mejor forma de interactuar con el navegador. 
+
+Arreglos
+Metodos de las listas: 
+.Push : Agrega al final de la lista
+.pop : Elimina el ultimo elemento
+.concat : unir dos listas 
+shift(): Elimina el primer elemento de la lista y te lo devuelve.
+objeto: Estructura de datos que se usan para guardar colecciones de información mediante clave:valor
+Obsidian - Guardar información 
+
+
+CONTROL DE VERSIONES
+Tomar una foto al codigo
+Gestionar los cambios de manera efectiva
+
+
+Control de versiones: Practica de rastrar y gestionar cambios en los documentos. 
+
+Sistema de contol de versiones: herramientas de software que ayudan a los equipos a lograr control de versiones. 
+
+Características: 
+- Simplicidad: Facil de entender y usar
+- Colaboración: Multiples usuarios trabajen en el mismo proyecto
+- Eficiencia
+- Accesibilidad
+- Seguridad 
+- Confiabilidad: Datos seguros y no se pierden 
+- Ramificar y fusionar
+
+Git y GitHub
+
+Importancia: 
+- Asegurar la buena documentación del código
+- Monitorear cada archivo
+-cuando están bien guardas podemos devolver si alguna función no salió bien o si quieremos probar algo sin dañar el código 
 
 
 
+Git: Sistema control de versionas, hacer cambios localmente y luego sincronizar con repositorios remotos
+
+GitHub: Plataforma para guardar repositorios. Colaborar y compartir el código, mostrar portafolios, ayudar en otros proyectos. 
+
+Git
+│
+├── Versión 1 → proyecto inicial
+├── Versión 2 → agregué cartas
+├── Versión 3 → agregué reglas
+└── Versión 4 → agregué apuestas
+
+Estos puntos guardados se llaman commits.
+
+commit: Un registro de cambios que decidiste guardar en Git.
+repositorio: Tu proyecto junto con su historial de versiones administrado por Git.
+Branch / rama:  una línea de trabajo independiente.
+             ┌── Rama Login
+             │
+PROYECTO ───┤
+             │
+             └── Rama Registro
+
+Tú puedes trabajar en login.
+Otra persona puede trabajar en registro.
+Después pueden integrar los cambios.
+
+Esto permite que varias personas trabajen sobre el mismo proyecto sin estar constantemente pisándose el trabajo.
+
+GitHub:
 
 
+TU COMPUTADOR
+     │
+     │ push
+     ↓
+   GitHub
 
+Push : enviar tus cambios al repositorio remoto.
+
+
+GitHub
+   │
+   │ pull
+   ↓
+TU COMPUTADOR
+
+Pull : traer cambios desde el repositorio remoto.
+
+Pasos
+-Seleccionar carpeta
+-Click derecho open git bash here 
+-configurar 
+git commit -m "first commit"
+
+git config --global user.email "3218775013ju@gmail.com"
+
+git init 
+
+
+Punto de entrada de un proyecto: --Propósito 
+funcionalidades
+instrucciones de uso 
+
+
+Crear archivo README:
+vi RADME.md
+
+verificar los estados: 
+git status
+
+añadir al área de preparación
+git ad . 
+
+Una vez se hayan realizado la prepracion y los cambios se envían al repositorio. 
+COmo tomar la foto al proyecyo 
+git commit -m "se agrego el archivo README la carpera tipos de datos y practica VSC"
+
+hitorial
+git log 
+
+
+git Branch -M main
+git remote add origin 
+
+rama principal MAIN: es la que se sube 
+
+1. Guardas lo que hiciste en main
+
+Primero te cambias a main:
+
+git switch main
+
+Luego:
+
+git add .
+git commit -m "Actualizo notas"
+git push
+
+git switch blackjack
+
+Y haces:
+
+git add .
+git commit -m "Avanzo en juego blackjack"
+git push
+
+
+Si quieres crear otra rama desde cero, recuerda:
+git switch -c nombre-de-la-rama
+Por ejemplo:
+git switch -c blackjack
