@@ -1,0 +1,15 @@
+Descuento aplicado.
+Monto final a pagar.
+
+Ejercicio2 
+Algoritmo Descuento
+Inicio
+Definir total, descuento, totalFinal Como Real
+1. Escribir "Ingrese el total de la compra:"
+2. Leer total
+3. descuento = total * 0.10
+4. Leer descuento
+5. montoPagar = total - descuento
+6. Leer totalFinal
+6. Escribir "El monto a pagar es: "+ totalFinal	
+Fin

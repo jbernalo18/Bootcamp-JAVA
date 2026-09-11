@@ -1,0 +1,638 @@
+DIA 1
+Maira Duque - Equipo BD de Generation
+Conectar con empresas.
+Compromiso con la colocación laboral.
+Revisar vacantes, asistir a las entrevistas, realizar el proceso en los tiempos establecidos. 
+Proyección a 6 meses. 
+
+Claves: 
+- Mantener informado al equipo de cualquier actualización. 
+- Durante o después hay oportunidad de entrevistarse con socios. 
+- Representarse bien a si mismos. 
+
+Encuestas: 
+- E. referencia
+- E. Graduación
+- E. Novedades de empleabilidad
+- E. Seguimiento 3,6,12 meses después de la graduación. 
+
+Programa
+1. Habilidades técnicas + IA
+2. Habilidades Comportamiento y mentalidades
+3. Habilidades Empleabilidad
+
+Técnicas: Git y GitHub, Java IDE, IntelliJ Idea, POO, SQL, Desarrollo web con Java y Spring Boot, HTML, CSS, Java Script. 
+
+Comportamientos y mentalidades: Orientación al detalle, Trabajo en equipo, Responsabilidad personal, Orientación al futuro, Persistencia.
+
+
+Reglas - WPP
+-----------------------------------------
+Segunda sesión 
+
+Canvas
+
+Módulos
+
+Pendiente: *REALIZADO*
+1.2 Bienvenidos al canvas
+1.5 Repaso canvas y Zoom
+
+Principales Habilidades
+Comunicación
+Proactividad
+Orientación al detalle
+Trabajo en equipo
+
+ORIENTACIÓN A FUTURO. ESTABLECER METAS Y COMPRENDER QUE OBJETIVOS VAMOS A TOMAR. 
+
+S pecific - Especifico
+M easurable - Medible
+A ttainable - Alcanzable
+R elevant - Relevante
+T ime Bound - Limite de tiempo
+
+DIA 2
+
+Comunidad en línea. 
+Manejo del estrés 2.9 
+Identificar el estrés y utilizar técnicas de reducción del estrés para mantenerte tranquilo durante interacciones desagradables o de alta presión.
+
+El estrés tiene signos físicos y emocionales que puedes reconocer y a los que puedes responder.
+
+El estrés es la respuesta del cuerpo a los momentos en que te sientes abrumado, ansioso o amenazado.
+
+Introducción al currículo de Desarrollador Junior Full-Stack/JAVA
+
+-Desarrollar funcionalidades nuevas para aplicaciones web	
+-Crear y consumir APIs 
+-Crear y modificar relaciones en la base de datos
+-Conectar el frontend con el backend.
+-Trabajar con metodologías ágiles
+ 
+Mapeo actividades
+Investigación: Descripciones de empleo
+Entrevistas: Entrevista a los ingenieros gerentes peronas recusro himanos para idenfificar las habilidades
+observaciones: Observa los ingenieros en accion en sus empleos para alinear el programa con la realidad
+
+Momentos de quiebre, tareas desafiantes. 
+
+¿Cómo corresponden los temas que aprendemos a las actividades que enlistaste en tu proceso creativo en la apertura? Enlista por lo menos un ejemplo concreto de una sesión técnica y cuáles actividades cubre de tu lista ella.
+Los temas que aprendemos nos preparan para realizar las actividades propias de un desarrollador. Por ejemplo, en una sesión técnica de Java aprendemos a desarrollar funcionalidades para aplicaciones web, y esto se relaciona directamente con una de las tareas del rol. Además, aprendemos herramientas y metodologías que nos ayudan a organizar y desarrollar el proyecto.
+
+Dónde ves que estamos enfocándonos en momentos de quiebre? Enlista por lo menos tres temas de la sesión. 
+Adaptación a cambios → ajustar el desarrollo cuando cambian los requerimientos del cliente o del proyecto.
+Trabajo en equipo y comunicación → saber pedir ayuda, comunicar dificultades y buscar soluciones con el equipo
+
+Resolución de problemas — encontrar soluciones cuando el código presenta errores o algo  no funciona.
+
+¿Qué sesión técnica te pone más ansioso? ¿Por qué?
+La sesión que más me pone ansiosa es la de Front-End, porque siento que no tengo muchas habilidades en diseño y no es el área con la que más me identifico. Sin embargo, quiero aprender y desarrollar esas habilidades. 
+
+“Abuelita, Java es como un idioma que yo uso  para poder hablarle a los computadores. Con ese idioma les digo qué tienen que hacer. Por ejemplo, cómo guardar información, hacer una cuenta, mostrar algo en una pantalla o permitir que una persona haga una compra
+
+Juegos de roles
+Mejores practicas: 
+1. Divertirse
+2. Asumir el rol
+3. Recibir Feedback
+
+
+Resolución de problemas TIFC
+Tenedor 
+Cordondes 
+Clip
+
+tifc
+enseñar habilidades básicas que se apliquen u roles técnicos. 
+resolución de problemas- desglosar
+pensamiento lógico 
+Ingenio
+ 
+SaaS
+Vitalización 
+Computación en la nube
+Computación en la nube vs Computación tradicional
+
+GitHub**
+
+----------------------------------------
+
+DIA 3
+COMPUTACIÓN EN LA NUBE
+Infraestructura. 
+
+SaaS - Aplicación final
+
+Google cloud, AWS- Ejemplos.
+*PaaS* - Plataforma para desarrollar las aplicaciones, capa intermedia. 
+Componentes: 
+Herramientas de desarrollo - Necesario para desarrollar. Ej editor, depurador, compilador. 
+-Middleware - Aplicaciones orientadas al usuario y el sistema operativo de la maquina, software intermedio
+- Gestión de bases de datos- Administrar y mantener las bases de datos, proporcionar sistema de gestión.
+- Infraestructura - Proporcionada por la IaaS. Gestión de servidores por ejemplo. 
+Esto para centrarse solo en desarrollar. 
+
+Tipos de PaaS 
+AIPaaS - Crear aplicaciones de IA sin gestionar potencia de calculo. Ofrecen modelos preentrenados
+
+iPaaS - Plataforma de integración conecta datos y servicios entre entornos
+
+cPaaS- Plataforma de comunicaciones como servicio, permite agregar mensajería por ejemplo. 
+
+mPaaS- Plataforma móvil como servicio, simplifica el desarrollo de aplicaciones móviles con métodos de bajo código y acceso a funciones de los dispositivos. 
+
+
+Opciones de almacenamiento en la nube
+
+Almacenamiento de objetos- se despliega para dar solución a datos no estructurados, videos, fotos, audios, archivos colaborativos. Datos grandes. almacena en contenedores, ideal para crear aplicaciones modernas desde cero, se requiere escalamiento y flexibilidad. Importar datos existentes para análisis, copias de seguridad.  
+
+Almacenamiento en bloques - Bloques individuales de almacenamiento en bruto, se tiene un bloque y se rellena con datos de igual tamaño, permite un sistema operativo usar los bloquees como discos duros individuales, gestión de metadatos para almacenamiento eficiente y alto rendimiento, se usa para bases de satos, servidores correo electrónico. 
+
+
+Investigar ofertas PaaS. 
+Que ofrece y se puede encasillar el proveedor en algún tipo de PaaS (AIPaaS - Crear aplicaciones de IA sin gestionar potencia de calculo. Ofrecen modelos preentrenados
+
+iPaaS - Plataforma de integración conecta datos y servicios entre entornos
+
+cPaaS- Plataforma de comunicaciones como servicio, permite agregar mensajería por ejemplo. 
+
+mPaaS- Plataforma móvil como servicio, simplifica el desarrollo de aplicaciones móviles con métodos de bajo código y acceso a funciones de los dispositivos.)
+no AWS, Google Cloud, IBM Cloud o Azure
+
+GlassHouse AIPaaS: Este modelo permite a los desarrolladores ejecutar, entrenar y desplegar modelos de inteligencia artificial sin preocuparse por la infraestructura física
+
+Twilio cPaaS: Añadir alertas SMS, chats de soporte o llamadas dentro de tu aplicación.
+
+Tencent Cloud mPaaS - Desarrollar apps móviles escalables con sincronización nativa y multimedia.
+
+MuleSoft iPaaS Unificar sistemas dispares (ej. ERP con CRM) en grandes empresas.
+
+
+Faas
+
+Päas ofrece plataforma para desarrollar completa. FaaS permite funciones aisladas, se espere que se inicien en milisegundos. 
+
+Funciones como Servicios 
+- AWS Lambda
+- Azure Functions
+- Funciones en la Nube
+- Iron.io
+- Webtask.io
+Permiten crear funcionalidades especificas. Funciones aisladas. 
+
+
+Microservicios vs monolito
+
+Dividir una aplicación en distintos bloques vs monolito que esta todo junto. 
+
+Microservicios editar el código con facilidad, hacer arte con una colección de mosaicos, se puede añadir, sustituir
+
+Monolito Pintar todo en un lienzo. 
+FaaS se usa para construir esas piezas. 
+
+Aprendimos: 
+PaaS proporciona todo lo necesario para desarrollar aplicaciones sin preocuparnos por infraestructura. 
+Diferentes tipos de PaaS especializados
+Tipos de almacenamientos en la nube
+FaaS permite ejecutar funciones aisladas bajo demanda. 
+Microservicios vs monolitos. 
+
+
+
+La computación en la nube (Cloud Computing) es usar recursos informáticos a través de Internet, sin tener que poseer ni mantener físicamente toda la infraestructura. 
+
+
+IaaS
+
+Infraestructura como servicio. 
+Es un servicio en la nube donde el proveedor te ofrece recursos de infraestructura como:
+🖥️ Servidores virtuales
+💾 Almacenamiento
+🌐 Redes
+⚙️ Máquinas virtuales
+🔒 Recursos de seguridad y configuración
+
+Internet estaba formado por pc, las grandes empresas compraban grandes almacenes como centros de datos y colocaban muchos pc para dirigir las operaciones informáticas, se necesitaban planificaciones meticulosa, grandes conexiones a internet, mucha energía, y mucho talento en ingeniería, las empresas pequeñas no podían mantener, las alternativas como ICP centros de datos ajenos, estaban librados a extensos contratos y tardaban semanas en entregarse (efecto slashdock, abrazo de la muerte de Reddit). ejemplos de picos de trafico, cuando un sitio muy popular enlaza un sitio que es mas pequeño, el trafico masivo se dirige al sitio pequeño y puede colapsar los servidores porque no estaban preparados para esa alta demanda, el problema era que nadie podía responder a los picos de demandas, se equilibrabn cargas pero no se salvaba.
+
+La nube de Amazon
+Provisión de API aprovechar el código de los demás. 
+API - Forma de que los programas hablen entre si 
+Interfaz de Programación de Aplicaciones.
+Con esto los equipos de hicieron muy rápido, el alistamiento de los pc fue muy rápido, comercializaron ese servicio. 
+
+Que problema resolvía este servicio
+Amazon necesitaba solucionar el problema de tener que mantener grandes cantidades de infraestructura informática que no siempre utilizaba, especialmente por las variaciones de demanda. La solución fue crear una infraestructura más flexible y posteriormente ofrecer esos recursos como servicios en la nube -  Manejar picos de demanda
+
+Características de la nube 
+Infinita, escalable
+Instantánea 
+A demanda
+
+AWS Ground Station - Permite comunicarse con satélites desde la nube de AWS.
+Amazon Workspaces - Amazon WorkSpaces le permite aprovisionar escritorios virtuales basados en la nube conocidos como WorkSpaces para sus usuarios.
+AWS Snow Family
+AWS Device Farm 
+AWS Private 5G
+
+Amazon CloudFront es un servicio web que agiliza la distribución de contenido web estático y dinámico como archivos .html, .css, .js y archivos de imágenes a los usuarios.
+
+Amazon Rekognition  — análisis de imágenes y video
+Utiliza IA para analizar imágenes y videos. 
+Por ejemplo:
+Subes una imagen → el servicio detecta objetos, rostros u otras características.
+
+Permite diseñar la infraestructura a la medida de su negocio, 
+computación en la nube abstracción de los recursos, recursos disponible la demanda. 
+Los servidores en la nube son efímeros e infinitos, se crean y destruyen de una,  se escalan según necesidad, servidores tradicionales contratos largos, capacidad fija. 
+
+Amazon fue el pionero al externalizar su propia infraestructura permitiendo q cualquier empresa pueda acceder, esto cerró el ciclo de los tres y con las IaaS. Infraestructura bajo demanda. Entender IaaS. 
+
+Alojamiento web vs Alojamiento en la nube. 
+La diferencia está principalmente en cómo se alojan y administran los recursos.
+
+🌐 Alojamiento web tradicional
+Es cuando contratas un espacio en un servidor para publicar tu página o aplicación web.
+Tienes una página web → la subes al servidor → los usuarios entran mediante Internet.
+
+☁️ Alojamiento en la nube
+Tu aplicación se aloja utilizando infraestructura distribuida de un proveedor cloud, como AWS, Azure o Google Cloud.
+Puedes disponer de recursos de:
+procesamiento
+almacenamiento
+bases de datos
+redes
+balanceadores
+servidores virtuales
+Y puedes aumentarlos o reducirlos según la demanda.
+
+Alojamiento web:
+
+“Te doy un espacio para publicar tu sitio web.”
+
+Alojamiento en la nube:
+
+“Te doy acceso a infraestructura y servicios informáticos que puedes utilizar y escalar según tus necesidades.”
+
+dedicado
+Tienes un servidor físico completo para ti.
+
+🖥️ Servidor físico
+└── Tu aplicación
+
+No compartes los recursos principales con otros clientes.
+
+
+compartido 
+Varios clientes utilizan el mismo servidor físico.
+
+🖥️ Servidor
+├── Página A
+├── Página B
+├── Página C
+└── Página D
+Todos comparten los recursos del servidor.
+
+
+VPS - Maquina virtual aislada 
+Un servidor físico se divide mediante virtualización en varias máquinas virtuales.
+🖥️ Servidor físico
+├── 💻 VPS 1 → Tú
+├── 💻 VPS 2 → Cliente B
+└── 💻 VPS 3 → Cliente C
+
+Cada VPS funciona como si fuera un servidor independiente, aunque físicamente comparte recursos con otros VPS.
+
+Página pequeña → Compartido
+Aplicación con necesidades propias → VPS
+Proyecto grande → Dedicado / Cloud
+
+CAPEX
+Activos fijo, bienes inmuebles, instalaciones y equipos. 
+Longevidad benefician a la empresa mas de año fiscal. Ejemplo comprar servidores físicos o compra de centro de datos
+
+OPEX
+Gastos operativos 
+Costes recurrentes lo que se gasta para levar 
+suelen agotarse en el periodo contable en el que se adquirieron mensual, semanal, ejemplo GitHub, Spotify.
+
+Determinar los costes de la computación en la nube puede ser tan complejo como la tecnología, precios, estimar recursos que se necesitan en el futuro, no hay garantía que los cálculos sean correctos, arquitectura de costes variables de la nube. 
+
+CALCULO DE COSTES EN LA NUBE 
+Computación, sistema operativo y uso previsto. gigas de ram virtual
+
+Almacenamiento, espacio en disco, gigabytes de disco virtual
+
+red: transferencia de datos ancho de banda, gigabytes terabytes pentabytes, gigabytes de tranferencia de gatos
+
+TCO (Costo total de propiedad) Coste de adquisición de un activo a lo largo de su vida útil
+TCO= Costo de adquisición +costos operativos+ costos de mantenimientos- valor rescate
+costo adquisición: precio pagado en la compra
+operativos: mantener la operación en funcionamiento, personas energía
+costos de mantenimiento periódico
+valor de rescate: Importe que puedes recuperar vendiendo el equipo. 
+
+Herramienta real para calcular costos 
+
+link de blog TCO https://techcommunity.microsoft.com/blog/finopsblog/understanding-the-total-cost-of-ownership/4419195/
+
+Calculadora 
+https://azure.microsoft.com/es-es/pricing/calculator/
+
+Configuración básica - ubicación y software. Región - ubicación geográfica del centro de datos. Varían precios por localidades. 
+Sistema operativo: Windows es mas costoso por la licencia de Microsoft
+Tipo software preinstalado 
+Nivel categoría de rendimiento general 
+Basic pruebas entornos cortos, no características avanzada como escalado automático
+standard recomendado 
+Categoría: elegir entre mas potencia o algo equilibrado, o si queremos mucha memoria ram como bases de datos por ejemplo. 
+Serie de instancia: Familia o generación del hardware dentro de la categoría anterior
+S Standard
+B Basic
+D confiable
+INSTANCIA Tamaño del servidor dentro de la serie elegida
+núcleos. memoria y coste por hora
+cantidad por virtualización, unidades idénticas que voy a clonar y desplegar en esta misma configuración. 
+
+1 mes 730 horas, si se planea apagar en la noche, se reducen esas horas 
+Eliminar costos de hardware, electricidad, 
+diferencia alojamiento tradicional y en la nube 
+tradicional planificar comprar recursos, capacidad futura
+nube se renta bajo demanda y se paga por uso
+CAPEX y OPEX 
+Calcular TCO
+tres centros de costos enla nube 
+Economía de la nube. 
+
+Responder con datos precisos. 
+Assestemnt 1.5 30 min12:53
+
+Crecimiento vertical Scale up : Aumentar recursos de uns sola maquina. Puede ser mas costoso porque necesitas hardware mas pitente 
+
+Crecimiento horizontal Scale Out : agregar mas maquinas servidores para repartir carga implica mas hardware pero es mas flexible y no necesariamente mas costoso.
+
+SESION 3.7
+Mentalidad de crecimiento 
+Definir mentalidad de crecimiento y mentalidad fija.
+Explicar el impacto de abordar el trabajo a través de una mentalidad de crecimiento.
+Identificar situaciones que demuestran una mentalidad de crecimiento y una mentalidad fija.
+
+La mentalidad  de crecimiento convierte lo que para las mentalidades fijas es un fracaso o un problema que no se puede resolver en una oportunidad de crecimiento. 
+Enfrenta los errores, masactividad cerebral, Mas compromiso. En la mentalidad de crecimiento se procesan los errores, se aprenden de ellos y se corrgen. 
+Ideas para cultivar mentalidad de desarrollo
+Elogiar con sabiduría, elogiar el proceso en el que el niño se involucvra, esfuerzo, estrategias, enfoque, perseverancia, etc
+En este proceso las neuronas pueden crear vínculos nuevos y mas fuertes
+Mentalidad de crecimiento = Mas igualdad
+. 
+Mentalidad fijia: Las personas creeen en sus cualidades y caapcidad basicas la inteligencia o el talento, inmutables. 
+MEntalidad de crecimiento: Creen que sus habilidades más básicas pueden desarrollarse mediante la decidacion y el esfuerzo
+Carol Dweck es profesora Psicología social
+
+Mentalidad fija: mentalidad rigida porque creen que el talento o la inteligencia son estaticas y de estas depende el exito. 
+
+
+Mentalidad de crecimiento : mentalidad flexible porque creen que el talento o la inteligencia se pueden desarrollar con la practica. Esta mentalidad crea pasion por el aprendizaje. 
+
+Celebrar el intento. 
+
+Diferencias
+
+Evitar retos  | asume cuqluer reto
+Evita el feedback | Escucha critica contructiva
+Camino mas facil | Se esfuerza para aprender mas 
+se siente amenzado por los demas | anima a los demas 
+
+Video
+
+Neurociencia del aprendizaje
+se necesita crear y fortalecer vias neuronales para aprender algo. 
+La memoria muscular reside en elc erebro, neuronas que trabajan juntas para lograr un objetivo . 
+Se crean como senderos y se fortalcen con la practica ya luego no se tiene que pensar tanto en la mecánica por ejemplo. Luego se onveirte en una granc arretera
+Plasticidad crear y fortalecer conexiones
+ 
+
+Escenario 1 
+Mentalidad fija, ya que es normal que el primer dia de trabajo y aparte el inicio en un nuevo rol sea desafiante, al aprecer Greg no tiene mentalidad de crecimiento ya que se limita solo a las habilidades que tiene y no se permite tratar de tener habilidades nuevas y adapatativas a sus retos en el nuevo puesto. 
+
+Escenario 2
+Mentalidad de crecimiento 
+Porque Kenneth no permitió que el miedo npor no saber aleman lo paralizara sino que al contrario mostro una mentalidad flexible y desarrollo una habilidad que no tenia. 
+
+Manejo del estrés 
+Ejercicio: 10  min
+
+Pendiente sesión 
+
+Trabajo en equipo **Check
+“Trabajo en equipo es un proceso de colaboración que permite a personas comunes alcanzar resultados extraordinarios”. - Investigador de comportamiento James T Scarnati.
+
+Hbilidades: 
+Comunicación
+Responsabilidad
+Honestidad
+Escucha activa
+Empatía
+Colaboración
+Conciencia
+
+Equipo. 
+Nos fundimos al unísono de un proyecto
+Todos, cuidando cada aspecto
+Avanzamos con fuerza y con el rumbo recto
+Aportando, aprendiendo, creando un entendimiento
+
+-----------------------------------------
+
+
+SESION 4
+
+Lógica de programación.
+ 
+Orientación al futuro como el diseño afectara el código a largo plazo
+Orientación al detalle meticulosidad al analizar los problemas
+
+
+Lógica
+Razonamiento de una sucesión de hechos de manera coherente sin que exista contradicciones entre ellas. 
+
+
+La lógica de programación
+es la organización coherente de las instrucciones del programa, dentro de ello ay una seri de patrones que se repite como variables, colecciones, bucles. 
+
+Algoritmos: Es un conjunto de pasos secuenciales y ordenados que permiten lograr un objetivo. 
+
+1 inicio
+2 preguntar fecha de nacimiento
+3 saber en que fecha estamos
+4 restar el año actual menos el de nacimiento
+5 Fin
+
+Características
+1. Precisos - deben brindar el orden. Claro y específicos
+2. Definidos - Entrada proceso y salida
+3. Finitos deben tener fin
+4. Legibles Texto claro y ordenado
+5. Concretos contar con una solución especifica para problemas específicos.
+
+Partes de un algoritmo
+Entradas: Ingreso de los datos que se necesitan operar 
+Proceso: Es la operación lógica que el algoritmo hará con lo recibido en la fase de entrega o input. 
+Salida: Aquí finaliza el proceso, en esta etapa mostramos el resultado.
+
+
+Crear algoritmo preparar palomitas de maíz. 
+
+1. Inicio
+2. Tomar una olla.
+3. Agregar 2 cucharadas de aceite.
+4. Agregar el maíz para palomitas.
+5. Encender la estufa a fuego medio.
+6. Tapar la olla.
+7. Esperar a que el maíz comience a explotar.
+8. Mover la olla suavemente.
+9. Cuando los estallidos sean muy pocos, apagar la estufa.
+10. Destapar la olla con cuidado.
+11. Preguntar: ¿Las palomitas son saladas o dulces?
+12. Si son saladas: agregar sal al gusto.
+13. Si son dulces: agregar azúcar al gusto.
+14. Mezclar.
+15. Servir las palomitas.
+16. Fin
+
+Entradas
+Son los datos o elementos que necesitamos para comenzar.
+Maíz para palomitas
+Aceite
+Tipo de palomitas: saladas o dulces
+Sal o azúcar
+
+Proceso
+Agregar aceite y maíz a la olla.
+Encender la estufa.
+Cocinar hasta que el maíz explote.
+Apagar la estufa.
+Verificar si son saladas o dulces.
+Si son saladas → agregar sal.
+Si son dulces → agregar azúcar.
+Mezclar.
+
+Salida
+Palomitas de maíz preparadas, saladas
+
+Pseudocódigo
+Diseño de un algoritmo pero que no llega a ser un producto final. 
+Subir un tik tok
+Calcular el monto a pagar en una tienda si se aplica el 10% descuento sobre el total de la compra. 
+
+Actividad: 
+
+HELLO WORLD!
+
+Programa Alto nivel
+Lenguaje de programación
+Describir conceptos de alto nivel que tienen en común
+Escribir programa Hola Mundo!
+
+Serie de pasos para dibujar un objeto
+
+Que es un programa
+Es una serie de instrucciones que pueden ser ejecutadas por un computador 
+
+
+Lenguaje de programación
+Los computadores usan reglas para dar un significado estricto se les la sintaxis
+
+conjunto formal de reglas para escribir un programa de computador. 
+
+Todos los lenguajes comparten conceptos. 
+
+C printf
+JavaScript console.log()
+Pyton print()
+
+Sesión de JavaScript y configuración de Node.js
+
+
+Cliente y servidor. 
+
+
+Cliente: Dispositivo o sftware que se usa para acceder a un servicio, normalmente es un navegador, en donde en nuestros computadores 
+
+Ejemplo Chrome, cuando visitamos nuestro navegador el cliente solicita a servidor de Google, el servidor procesa la solicitud y envía la página solicitada. 
+
+
+servidor: Pc potente que envía los datos a lo cliente, escucha las solicitudes y responde con la información completa. 
+
+JavaScript Lenguaje programación usado para hacer que los sitios web sean interactivos. Click, efectos, saltos de paginas, animaciones. Hace que todo funcione. 
+HTML: construye la estructura. 
+CSS: Agrega el estilo
+
+CLASIFICACION DE LENGUAJES DE PROGRMACION
+
+*COMO SE PROCESAN : Son compilados: un programa externo traduce todo a lenguaje maquina antes de interpretarlo
+interpretados : El código se lee y ejecuta linea por linea en tiempo real, por un interprete. 
+
+*COMO MANEJAN LO DATOS : Tipado estático: Tienes que decirle explícitamente que tipo de variable es antes de compilarlo.  
+  tipado dinámico : El lenguaje detecta el tipo de dato mientas el programa se va ejecutando.
+
+*NIVEL DE CERCANÍA AL HARDWARE : Según su nivel de abstracción. 
+Bajo nivel : Los códigos que entienden el procesador directamente como código ensamblador. 
+o Alto nivel : Palabras en ingles y sintaxis para programar. El motor del navegador se encarga de la comunicación con la maquina
+Tipado débil: Convierte tipos de datos detrás de escena. El interprete intenta adecuar los datos para que la operación funcione.
+
+JavaScript: Just in time, es hibrido el compilador es ese. 
+Interpretado
+Multiparadigma
+Tipado dinámico 
+Alto nivel
+Tipado débil 
+
+Front-end y Back-end
+
+Front-end: Implica crear todos los elementos visuales del sitio web, ofrecer interfaz atractiva y fácil de usar.
+
+
+Back-end: Desarrollo el lado del servidor, bases de datos, lógica, API, garantiza que todo se comunique 
+
+
+Node Js. 
+Es un entorno de ejecución, que permite la ejecución de JS de lado del servidor. Herramienta para crear aplicaciones web rápidas y escalables. 
+Muchos usuarios al mismo tiempo sin que el sistema se vuelva lento. EJ: Netflix
+
+npm : Node Package Manager. Administrar paquetes (librerías) de JavaScript.
+Tú necesitas algo que otra persona ya programó → lo instalas con npm → lo utilizas en tu proyecto. 
+Ya viene con node.js gestiona modulos y paquetes. 
+
+Configuración VSC
+Correo: 3218715013ju@gmail.com
+LTS : Long-Term Support → soporte a largo plazo. 
+
+Administración del dinero
+
+Presupuesto
+Priorización de necesidades
+Planeación
+
+Presupuesto: herramienta para registrar gastos, ingresos, calculamos ahorros. 
+Gastos fijos 
+Gastos variables 
+Incluir ahorros e imprevistos
+
+
+Pasos para crear un presupuesto 
+
+- Comprender cuanto dinero gastas.   Identificar fuentes de ingresos y el total en un periodo de tiempo. 
+- Definir gastos fijos y variables. 
+Ingresos- gastos: Ahorro
+
+
+
+
+---------------------------------------
+
+
+
+
+
+
+
