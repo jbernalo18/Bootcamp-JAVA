@@ -871,3 +871,14 @@ Si quieres crear otra rama desde cero, recuerda:
 git switch -c nombre-de-la-rama
 Por ejemplo:
 git switch -c blackjack
+
+📁 Bootcamp-JAVA
+   └── .git
+       ├── main
+       └── blackjack
+
+
+git add     → preparo
+git commit  → guardo en Git
+git push    → subo a GitHub
+
