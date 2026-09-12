@@ -49,7 +49,7 @@ console.log(typeof concatenacion, concatenacion);
 
 // boolean
 let sumaBoolean = true + false;
-console.log(typeof +  sumaBoolean); 
+console.log(typeof +  sumaBoolean, sumaBoolean); 
 
 /*
 undefined y null
@@ -59,3 +59,12 @@ let saldoCuentaBancaria; //undefined
 console.log(saldoCuentaBancaria);
 
 let valorNulo = null; //vacio 
+
+//multiplicar cadena por un numer
+//NaN Not a Number 
+
+let resultado = "abc" * 2; 
+console.log(resultado); 
+
+nombreUsuario = prompt('Cual es tu nomnre? : ');
+console.log('nombre es ' + nombreUsuario);

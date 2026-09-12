@@ -15,4 +15,8 @@ console.log(listaCompras);
 
 let listaCompras2 = ["Agua", "peras"]; 
 
+// shift(): Elimina el primer elemento de la lista y te lo devuelve.
 console.log(listaCompras.concat(listaCompras2));
+let mascotas = ["Perro", "Gato", "Loro"];
+let primero = mascotas.shift(); 
+// primero vale "Perro" y la lista queda: ["Gato", "Loro"]

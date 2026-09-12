@@ -1,4 +1,4 @@
-let datoUsuario2 = {
+/*let datoUsuario2 = {
     nombre: "Ana",
     email: "123@gmail.com",
     edad: 25,
@@ -8,3 +8,5 @@ let datoUsuario2 = {
 console.log(datoUsuario2.edad);
 console.log(datoUsuario2.hobbies[0]); 
 console.log(Object.keys(datoUsuario2));
+*/
+
